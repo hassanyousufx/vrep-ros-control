@@ -1,4 +1,5 @@
 # vrep-ros-control
+## NOTE: THIS REPOSITORY IS STILL UNDER CONSTRUCTION
 
 This repo will allow you to control a quadcopter in VREP through ROS in Python. The current project is using `/quad_cmd_twist` that can be controlled with your keyboard. The current scenario allows the user to roll, pitch and yaw. However, takeoff and land has not been implemented.
 
